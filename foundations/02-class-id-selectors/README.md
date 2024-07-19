@@ -10,6 +10,14 @@ It isn't entirely important which class or ID values you use, as the focus here 
 * **The third element**: in addition to the styles for all odd numbered elements, add a font size of 24px
 * **The fourth element**: a light green background, a font size of 24px, and bold
 
+one parent for odd numbers?
+one specifically for 2nd - div
+one child for 3rd
+one for 4th - div
+classes?
+className = "odd big"
+
+
 Quick tip: in VS Code, you can change which format colors are displayed in RGB, HEX, or HSL by hovering over the color value in the CSS and clicking the top of the popup that appears!
 
 > ### Note:
